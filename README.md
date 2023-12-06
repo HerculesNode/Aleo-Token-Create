@@ -2,7 +2,7 @@
 
 Bu rehberde Aleo ile Token Oluşturmayı anlatacağım işlemleri ücretsiz Codespaces ile yapabilirsiniz.  <br><br>
 
-Daha önce VPS üzerinde kurulum yaptıysanız aşağıdaki adımları tekrar yapmanıza gerek yoktur. 1- Klasör oluşturalım bölümünden başlamanız yeterli.
+Daha önce VPS üzerinde kurulum yaptıysanız aşağıdaki adımları tekrar yapmanıza gerek yoktur. Klasör oluşturalım bölümünden başlamanız yeterli.
 
 
  ### Linkler
