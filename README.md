@@ -77,6 +77,8 @@ WALLETADDRESS=CÜZDANINIZIN-ADRESİ
 
 #### 3- Program ismi oluşturacağız burası önemli hercules yazan yeri kendi istediğiniz bir isimle değiştirin !  Burası değişecek = herculestoken  , kendi isminizi yazın 
 
+*Not isminizi 8 karakterden fazla yapın yoksa fee yüksek çıkar. !!! <br>
+
 ```shell
 APPNAME=herculestoken
 ```
