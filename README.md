@@ -8,7 +8,6 @@ Daha önce VPS üzerinde kurulum yaptıysanız aşağıdaki adımları tekrar ya
  ### Linkler
  * [Hercules Telegram](https://t.me/HerculesNode)
  * [Hercules Twitter](https://twitter.com/HerculesNode)
- * [Aleo Dc](https://discord.gg/aleohq)
 
 
 ## 🟢 Sistem Kurulumu
